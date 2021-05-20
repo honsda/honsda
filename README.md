@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/certified-cool%20guy-informational?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/-is%20a%20real%20hons-cb00ff?style=for-the-badge"/>
 <br>
-<br>
+ <br>
 </div>
 hi there <b>im hons</b>, all what i say when introducting myself is saying my name! <b><i>Hons!</i></b> i suck at programming! and i often do <i>"spaghetti"</i> codes because of my lazy unorganized brain. <b>and no matter what people say i will still use visual studio code to program in any language!</b> <br>
 <br>
