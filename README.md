@@ -19,9 +19,3 @@ hi there <b>im hons</b>, all what i say when introducting myself is saying my na
 <img src="https://cdn.discordapp.com/attachments/772910297350275092/844196915636731904/unknown.png" alt="fart cheesecake shrimp"/><span></span>
 <p>you should check out the projects im working on, most of it should be in <b><a href="https://honsda.github.io">here!!</a></b></p>
 <br>
-<h2>✨ stuff im working on ✨</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=honsda&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" alt="h"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=honsda&layout=compact&theme=midnight-purple&hide_border=true"/>
-<h4><img src="https://cdn.discordapp.com/avatars/838743275518033930/727d038b3da2b11514d0a4feac0deeca.webp?size=16"/>     <a href="https://github.com/Urmomia/urmomia-client">Urmomia Client</a>     <img src="https://cdn.discordapp.com/avatars/838743275518033930/727d038b3da2b11514d0a4feac0deeca.webp?size=16"/></h4>
-A 1.16 minecraft utility mod skidded and lead by hons (me!) 😳, with around 100 users mainly by <b>OpenAnarchy.org</b> players, with other amazing devs that did nothing but edit markdown files (as of 2021, may) lol
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Urmomia&repo=urmomia-client&show_icons=true&theme=midnight-purple&hide_border=true" href="https://github.com/Urmomia/urmomia-client" alt="amazing minecraft client skid im leading"/>
