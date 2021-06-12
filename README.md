@@ -19,3 +19,5 @@ hi there <b>im hons</b>, all what i say when introducting myself is saying my na
 <img src="https://cdn.discordapp.com/attachments/772910297350275092/844196915636731904/unknown.png" alt="fart cheesecake shrimp"/><span></span>
 <p>you should check out the projects im working on, most of it should be in <b><a href="https://honsda.github.io">here!!</a></b></p>
 <br>
+<img src="https://github-readme-stats.vercel.app/api?username=honsda&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" alt="h"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=honsda&layout=compact&theme=midnight-purple&hide_border=true"/>
