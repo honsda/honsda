@@ -1,4 +1,4 @@
-<div align="center"><img width="64" src="https://tenor.com/view/snine-snine19-cat-tudou-mr-potato-gif-21665298"><span></span></div>
+<div align="center"><span><img src="https://c.tenor.com/gSmJEv_z2O4AAAAd/snine-snine19.gif" width="64"/></span></div>
 <h1 align="center">Welcome to Homse!</h1>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=honsda&style=flat&color=blueviolet&label=fans that viewed profile"/> 
