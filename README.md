@@ -11,7 +11,7 @@
 <br>
  <br>
 </div>
-hi there im hons, i am just a secondary school student and not out of the ordinary or something.
+hi there im hons, i am just your typical not-so-interesting, ordinary secondary school student.
 <br>
 ꦏꦸꦭ ꦗꦼꦤꦼꦔꦺ ꦲꦺꦴꦤ꧀ꦱꦸꦢ ꧈ ꦱꦏ ꦮꦺꦠꦤ ꧈ ꦠꦤ꧀ꦱꦃ ꦏꦸꦫ꧀ꦩꦠ꧀ꦔꦒꦮꦺ ꦧ꧀ꦲꦸꦩꦶ ꦗꦮ꧉
 <br>
