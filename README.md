@@ -1,17 +1,19 @@
 <div align="center"><span><img src="https://c.tenor.com/gSmJEv_z2O4AAAAd/snine-snine19.gif" width="64"/></span></div>
-<h1 align="center">Welcome to Homse!</h1>
+<h1 align="center">Welcome - ꦩꦺꦴꦁꦒꦺꦴ</h1>
+<br>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=honsda&style=flat&color=blueviolet&label=fans that viewed profile"/> 
 <img src="https://img.shields.io/badge/Status-dead-critical"/>
 <img src="https://img.shields.io/badge/结晶度qq-informational"/>
 <img src="https://img.shields.io/badge/git结晶度qq-green"/>
 <br>
-<img src="https://img.shields.io/badge/certified-spaghetti%20dev-informational?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/-real%20hons-cb00ff?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/jihadi-informational?style=for-the-badge"/>
 <br>
  <br>
 </div>
-hi there im hons, i mostly program with interpreted languages as im not a fan of compiled languages' funny stuff.
+hi there im hons, i am just a secondary school student and not out of the ordinary or something.
+<br>
+ꦏꦸꦭ ꦗꦼꦤꦼꦔꦺ ꦲꦺꦴꦤ꧀ꦱꦸꦢ ꧈ ꦱꦏ ꦮꦺꦠꦤ ꧈ ꦠꦤ꧀ꦱꦃ ꦏꦸꦫ꧀ꦩꦠ꧀ꦔꦒꦮꦺ ꦧ꧀ꦲꦸꦩꦶ ꦗꦮ꧉
 <br>
 <br>
 and i eat cheese <br>
