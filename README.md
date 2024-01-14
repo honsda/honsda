@@ -2,7 +2,7 @@
 <h1 align="center">Welcome - ꦩꦺꦴꦁꦒꦺꦴ</h1>
 <br>
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=honsda&style=flat&color=blueviolet&label=fans that viewed profile"/> 
+<img src="https://komarev.com/ghpvc/?username=honsda&style=flat&color=blueviolet&label=fans"/> 
 <img src="https://img.shields.io/badge/Status-dead-critical"/>
 <img src="https://img.shields.io/badge/结晶度qq-informational"/>
 <img src="https://img.shields.io/badge/git结晶度qq-green"/>
